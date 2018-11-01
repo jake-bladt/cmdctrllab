@@ -66,6 +66,8 @@ packages/
 *.dbmdl
 db.lock
 
+# IDE settings
+.vs/
 
 #Test files
 *.testsettings
