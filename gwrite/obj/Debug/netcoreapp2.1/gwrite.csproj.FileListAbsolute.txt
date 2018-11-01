@@ -1,0 +1,11 @@
+C:\code\external\gwrite\gwrite\bin\Debug\netcoreapp2.1\gwrite.deps.json
+C:\code\external\gwrite\gwrite\bin\Debug\netcoreapp2.1\gwrite.runtimeconfig.json
+C:\code\external\gwrite\gwrite\bin\Debug\netcoreapp2.1\gwrite.runtimeconfig.dev.json
+C:\code\external\gwrite\gwrite\bin\Debug\netcoreapp2.1\gwrite.dll
+C:\code\external\gwrite\gwrite\bin\Debug\netcoreapp2.1\gwrite.pdb
+C:\code\external\gwrite\gwrite\obj\Debug\netcoreapp2.1\gwrite.csprojAssemblyReference.cache
+C:\code\external\gwrite\gwrite\obj\Debug\netcoreapp2.1\gwrite.csproj.CoreCompileInputs.cache
+C:\code\external\gwrite\gwrite\obj\Debug\netcoreapp2.1\gwrite.AssemblyInfoInputs.cache
+C:\code\external\gwrite\gwrite\obj\Debug\netcoreapp2.1\gwrite.AssemblyInfo.cs
+C:\code\external\gwrite\gwrite\obj\Debug\netcoreapp2.1\gwrite.dll
+C:\code\external\gwrite\gwrite\obj\Debug\netcoreapp2.1\gwrite.pdb
